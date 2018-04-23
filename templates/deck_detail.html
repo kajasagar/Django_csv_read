@@ -9,10 +9,8 @@
 {% for card in deck %}
     <div>
     <p>{{ card.word}}</p>
-        <p>{{ card.buzz_word_one}}</p>
-        <p>{{ card.buzz_word_two}}</p>
-        <p>{{ card.buzz_word_three}}</p>
-        <p>{{ card.buzz_word_four}}</p>
+        <p>{{ card.buzz_word_one}} {{ card.buzz_word_two}} {{ card.buzz_word_three}} {{ card.buzz_word_four}} {{ card.is_used}}</p>
+
     </div>
 {% endfor %}
 </body>
