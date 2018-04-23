@@ -1,0 +1,201 @@
+﻿Keyword,Taboo1,Taboo2,Taboo3,Taboo4,level,Page,Found By
+Software,product,deliverable,hardware,computer,1,2,Z.P.
+Failure curve,line,map,infant mortality,wear out,1,2,Z.P.
+test,analysis,investigation,elimination,bugs,,,
+technology,computer,electronics,science,mechanization,2,2,E.B
+requirements,specification,demand,necessity,need,1,2,E.B
+app,mobile,phone,android,iOS,1,9,A.P.
+cloud computing,back-end,wireless,vitural,front-end,2,11,A.P.
+modeling,build,design,plan,guide,2,17,A.P.
+deployment,software,app,website,deliver,2,17,A.P.
+umbrella activities,project,part,sub,task,2,18,A.P.
+process,task,action,creat,work,1,16,Z.P.
+process framework,communication,planning,modeling,construction,1,17,Z.P.
+linear process flow,sequence,order,waterfall,syncronously,2,31,A.P.
+paralell process flow,non-sequencial,asyncrounous,independent,alongside,2,31,A.P.
+process model,watefall,prototyping,design,structure,3,40,A.P.
+prototypoing,iteration,start,first,beginning,2,45,A.P.
+waterfall,communication,planning,modeling,construction,1,42,Z.P.
+formal methods model,mathematical,specification,model checking,verification,3,53,Z.P.
+v-model,down,up,victory,win,2,42,Z.P.
+Incremental Process Models,linear,parallel,increase,progresses,2,44,Z.P.
+Evolutionary Process Models,iteration,prototyping,spiral model,two,2,49,Z.P.
+concurrent Models,transtition,individual,computation,wait,3,51,Z.P.
+development,growth,progress,improvement,upgrade,1,4,E.B
+tools,instrument ,device,machine,equipment,1,16,E.B
+Communication,connection,contact,conversation,transmission,2,17,E.B
+Maintain ,keep up,repair,continue,preserve,1,22,E.B
+Pattern ,design,diagram,decoration,plan,3,35,E.B
+Initial Context,basic,fundamental,primary,early,3,36,E.B
+inception,beginning,initiation,start,introduction,2,34,E.B
+negotiation,debate,discussion,mediation,compromise,3,34,E.B
+execution,rendering,implenetation,delivery,performance,2,4,S.K
+mortality,fatality,dying,extinction,killing,1,,S.K
+component-based development,software,system,reuse-based,separation,3,53,Z.P.
+Formal Methods Model,set,rigorous,develop,approach,3,53,Z.P.
+Personal Software Process,measurement,quality,work,activities,3,59,Z.P.
+Planning,organizing,process,blue print,map,1,59,Z.P.
+High-level design,architecture,software,product,developed,2,60,Z.P.
+framework,structure,built,serve,guide,1,19,Z.P.
+team leaders,people,boss,plan,group,1,688,Z.P.
+motivation,encourage,passion,want,get,1,688,Z.P.
+organization,team,many,together,object,1,688,Z.P.
+innovation,new,product,idea,make,1,688,Z.P.
+Managerial identity,leader,team,control,head,2,688,Z.P.
+Achievement,end,begining,goal,object,2,688,Z.P.
+agile development,software,Scrum,Lean,methodologies,3,66,A.P.
+extreme programming,software,development,quality,methodology,3,72,A.P.
+refactoring,restructuring,code,complexity,factoring,2,74,A.P.
+spike solution,investigation,technical,reliability,throw,2,74,A.P.
+acceptance test,testing,software,compliance,requirements,2,74,A.P.
+project chartering,delineation,responsibilities,stakeholders,roles,2,76,A.P.
+scrum,rugby,framework,product,team,3,78,A.P.
+sprint,scrum,timebox,duration,development,2,78,A.P.
+Dynamic Systems Development Method,framework,software,development,agile,4,79,A.P.
+functional model iteration,prototype,tools,functino,loop,3,80,A.P.
+management,administration,government,organization,control,1,685,E.B
+people  factor,ability to attract,ability to develop,ability to motivate,ability to organize,4,685,E.B
+Stakeholders ,collaborator,associate,function,associate,3,687,E.B
+Agile Teams,highly motivated team,quick team,rapid team,active,3,691,E.B
+feedback ,response,evaluation,comment,reaction,1,706,E.B
+Direct measures of the software,lines of code (LOC),execution speed,memory size,defects reported,4,708,E.B
+Indirect measures  of the software,functionality,quality,complexity,effi ciency,4,708,E.B
+Estimation,guess,assessment,consideration,computation,2,728,E.B
+project feasibility,practicability,usefulness,utility,workability,3,730,E.B
+Maintain momentum,turnover,project,check,fast,3,697,Z.P.
+Project complexity,time,size,hard ,planing,1,728,Z.P.
+Project size,range,small,big,look,1,729,Z.P.
+Requirements models,analysis,customer,software,domain,2,114,Z.P.
+Design models,effectively,construct,user,characteristics,2,114,Z.P.
+living models,cooperation,stakeholders,model-based,systems,2,120,Z.P.
+Cloud computing,share,system,google,platform,2,127,Z.P.
+Security,wall,system,safety,stop,1,127,Z.P.
+Hashing,one by one,retrieval,data,allocate,1,127,Z.P.
+Interfaces,share,link,access,contract,1,126,Z.P.
+Elaboration,customer,developing,creat,describe,3,135,Z.P.
+Viewpoints,think,share,improtant,experience,2,139,Z.P.
+Traceability,refer,relationship,requirement,product,3,142,Z.P.
+Quality function deployment,quality,QFD,process,customer,4,146,Z.P.
+Self-adaptive systems,recover,data,requirement,function,4,158,Z.P.
+Unit testing,single,alone,small,piece,3,528,A.P.
+Validation testing,correct,project,checking,systems,4,529,A.P.
+Fault based testing,error,model,source,values,4,531,A.P.
+Partition testing,section,category,data,technique,4,533,A.P.
+state-based partitioning,testing,design,categorize,withdraw,4,534,A.P.
+interclass test-case design,testing,system,complicate,integretion ,4,534,A.P.
+usibilty test,representative,design,evaluate,usability,4,552,A.P.
+compatibilty test,simple,point,checking,values,4,554,A.P.
+component level testing,module,produce,life cycle,program,4,555,A.P.
+interactablity,testing,quality,state,information,3,552,A.P.
+interface testing,different,system,class,software,3,549,A.P.
+feasibility analysis,investigate,analysis,project,outcome,3,571,A.P.
+stress testing,exteme,mobile,effect,simulation,3,573,A.P.
+attack pattern,security,group,testing,purpose,2,589,A.P.
+security model,formal,model,computation,computing,3,590,A.P.
+scope,span,confines,purview,project,1,684,S.K
+capability,capacity,competence,potential,qualification,2,685,S.K
+module,width,breadth,broadness,functionality,2,,S.K
+framework activities,communication,planning,modeling,construction,4,31,E.B
+sequential approach,in an order,next,following,serial,2,42,E.B
+extensibility,elasticity,adaptability,resilience,flexibility,3,52,E.B
+packages,bags,classes,boxes,bottles,2,53,E.B
+Phases of the Unified Process ,Inception,Elaboration,Construction,Transition,4,57,E.B
+representations,image,illustration,model,sketch,1,204,E.B
+semantic ,linguistic,phonological,morphological,syntactic,3,208,E.B
+Actuator,activate,cause,influence,inspire,2,209,E.B
+Constraints ,force,pressure,compulsion,violence,1,210,E.B
+construction,creation,building,planning,structure,1,226,E.B
+Guidelines,rule,key,instruction,standard,2,228,E.B
+ControlPanel,window,set,hit,control,1,203,Z.P
+Sequence Diagrams,event,map,UML,write,2,205,Z.P
+WebApps,web,program,user,page,1,218,Z.P
+requirements engineering,task,action,activity,beginning,2,132,Z.P
+Elicitation,establish,customer,goals,object,3,134,Z.P
+Specification,prototype,models,usage,set,2,135,Z.P
+Requirements management,track,prokect,control,system,2,138,Z.P
+nonfunctional requirement,quality,security,general,performance,2,141,Z.P
+complementary,sequences,produce,angles,pair,,142,Z.P
+overlap,repeat,segistration,same,follow,,142,Z.P
+conflicting,inconsitent,nonuniform,same,skirmishing,,142,Z.P
+independent,alone,free,isolated,separate,,142,Z.P
+Usage Scenarios,real,interact,occur,action,3,146,Z.P
+Service-oriented development,service,aggregation,single,request,3,148,Z.P
+touchpoint,user,function,connect,customer,2,148,Z.P
+troubleshooter,worker,skill,expert,repair,1,149,Z.P
+Primary actors,goal,system,interaction,achieve,3,149,Z.P
+Secondary actors,assistance,primary,goals,achieve,2,149,Z.P
+Scenario-based elements,model,eliciting,diagram,creation,2,155,Z.P
+Class-based elements,set,object,manipulated,usage,2,155,Z.P
+Behavioral elements,profound,effect,design,behavior,2,156,Z.P
+analysis patterns,requirement,integrated,analysis,reference,2,157,Z.P
+Agile requirements engineering,volatility,predufined,emerge,features,2,158,Z.P
+Self-adaptive systems,system,flexibility,functional,aspect,3,158,Z.P
+negotiation requirments,talk,stakeholders,product,cost,2,159,Z.P
+handshaking,impact,comminicates,tentions,customer,2,160,Z.P
+requirements monitoring,run-time,evolution,activity,count,3,161,Z.P
+validating requirement,question,omissions,ambiguity,sistency,3,161,Z.P
+Fearturitis,functional,overall,quality,possible,3,162,Z.P
+flexibilitis,overload,adaptation,facilities,exhibit,2,162,Z.P
+performitis,expense,maintainability,secirity,reliability,2,162,Z.P
+Domain Analysis,process,related,system,common,1,170,Z.P
+structured analysis,transform,data,entities,object,1,171,Z.P
+object-oriented analysis,definition,effect,requirement,UML,1,172,Z.P
+Flow models,DFDs,data models,water,picture,1,172,Z.P
+scenario-based models,view,point,actors,information,2,172,Z.P
+class models,business,analyst,communicate,understand,1,172,Z.P
+UML,language,software,design,map,1,180,Z.P
+Activity Diagram,behavior,flow of control,sequence,condition,1,180,Z.P
+Swimlane Diagrams,activity,flow of activities,use case,analysis,1,181,Z.P
+Essential requirements,solution,external,operation,model,2,187,Z.P
+Collaborations,section,responsibilities,object,team,2,212,Z.P
+Navigation Modeling,list,related,platforms,applications,2,212,Z.P
+Quality Guidelines,design,process,map,evaluate,2,228,Z.P
+Quality Attributes,set,function,performance,supportability,2,229,Z.P
+Supportability,adaptability,attributes,testability,extensibility,3,230,Z.P
+Functionality,evaluating,feature set,capability,program,1,230,Z.P
+Usability,documentation,function,human,useful,1,230,Z.P
+Reliability,frequency,service,output,failure,1,230,Z.P
+Performance,processing speed,response,time,source,1,230,Z.P
+Software architecture,structure,software,conceptual,system,1,232,Z.P
+Structural models,architecture,program,components,organized,2,233,Z.P
+Framework models,level,repeatable,page,base,1,233,Z.P
+Dynamic models,behavior,program,function,events,2,233,Z.P
+functional models,system,user,human,hierarchy,2,233,Z.P
+ADLs,models,mechanism,describe,languages,3,233,Z.P
+design pattern,structure,problem,blue print,impact,1,234,Z.P
+Separation of concerns,concept,design,part,feature,2,234,Z.P
+Modularity,manifestation,requirement,attribute,program,2,234,Z.P
+information hiding,other,design,see,outside,1,235,Z.P
+Functional independence,outgrowth,concerns,modularity,information,2,236,Z.P
+Stepwise refinement,top-down,design,strategy,application,2,237,Z.P
+Refactoring,reorganization,technique,design,function,2,238,Z.P
+cohesion,work,models,together,relative,1,240,Z.P
+coupling,two,models,relative,connect,1,240,Z.P
+architectural design,equivalent,plan,overall,size,1,244,Z.P
+decision metaphor,architecture,cost,usability,performance,2,255,Z.P
+Emergence,self-organized,scalable,efficient,economic,2,265,Z.P
+Symmetry,system,attributes,design,communicate,2,264,Z.P
+SOAD,modeling,framework,architectural,dependencies,2,266,Z.P
+guidance model,architecture,style,genre,information,3,266,Z.P
+decision model,architecture,record,decisions,project,3,267,Z.P
+ACD,model,interact,boundaries,structure,3,267,Z.P
+archetype,class,pattern,core,target,2,269,Z.P
+SEI,group,team,establish,analysis,1,275,Z.P
+ATAM,design,activities,analysis,iterative,2,275,Z.P
+user’s mental model,image,user,perception,description,2,323,Z.P
+implementation model,outward,interface,coupled,describes,3,323,Z.P
+Workflow Analysis,task,work,technique,process,2,328,Z.P
+Anticipation,design,application,user,requested,2,338,Z.P
+Flexibility,easy,interface,application,user,2,338,Z.P
+Testing,examination,verification,proof,trial,1,496,E.B
+Black-box testing,glass-box testing,structural testing,test ,path,4,500,E.B
+Controllability,optimized,automate,output,input,4,497,Z.P
+ white-box testing,internal view,Black-box testing,test ,functional testing,4,499,E.B
+demonstrate,determine,establish,indicate,expose,1,499,E.B
+Independent,separate,disjointed,divided,split,1,502,E.B
+Path,direction,route,track,street,1,502,E.B
+code,program ,framework,lines,symbol,1,504,E.B
+ statements,words,lines of code ,double quotation,Single  quotation,1,505,E.B
+rows,Matrix,colum ,lines,order,1,506,E.B
+Loops,ring,circle ,self,round,2,508,E.B
+linked,associate,mix,relate,pair,2,512,E.B
